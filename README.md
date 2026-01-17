@@ -1,1 +1,1 @@
-# McHacks-13
+# McHacks-13 — Universal AAC Translator
