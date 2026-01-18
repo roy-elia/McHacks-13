@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850.36" height="850.36" viewBox="0 0 850.36 850.36" overflow="visible">
+  <!-- Circle with diagonal line (not/negative) -->
+  <circle cx="425.18" cy="425.18" r="400" fill="#f8f9fa" stroke="#667eea" stroke-width="30"/>
+  <!-- Circle -->
+  <circle cx="425.18" cy="425.18" r="200" fill="none" stroke="#dc3545" stroke-width="40"/>
+  <!-- Diagonal line through circle -->
+  <line x1="250" y1="250" x2="600" y2="600" stroke="#dc3545" stroke-width="50" stroke-linecap="round"/>
+</svg>

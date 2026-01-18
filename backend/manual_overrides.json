@@ -1,0 +1,18 @@
+{
+  "_comment": "Manual symbol overrides for words with poor auto-matches. Update this file with better symbol filenames if you find them.",
+  "_note": "Words without good matches will use /acc/unknown.svg as fallback",
+  
+  "YOU": "young.svg",
+  "ME": "meet_,_to.svg",
+  "STOP": "backstop.svg",
+  "SEE": "see_saw.svg",
+  "LIKE": "like_,_to.svg",
+  "FEEL": "feel_,_to.svg",
+  "BIG": "big_mac_switch.svg",
+  "YES": "yesterday.svg",
+  "NO": "no_class.svg",
+  "PLEASE": "please.svg",
+  "THAT": "that.svg",
+  "NOT": "not.svg",
+  "HERE": "here.svg"
+}
